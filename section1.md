@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "Basics of Coding"
+---
 
 # Basics of Coding
 
@@ -67,4 +70,3 @@ As you progress in your coding journey, consider exploring forums and communitie
 ### Remember to Keep Coding!
 
 Your journey in coding is just beginning. Embrace the challenges, celebrate the victories, and continue to seek out knowledge and resources that inspire you!
-
