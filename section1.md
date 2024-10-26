@@ -51,7 +51,7 @@ Learning to code opens doors to numerous opportunities. It enhances your problem
 
 ### Final Thoughts
 
-Embarking on your coding journey might seem daunting at first, but remember that every expert was once a beginner. Take your time, practice regularly, and most importantly, enjoy the process! 🌟 Coding is not just about the destination; it’s about the journey of learning and creating.
+Initiating on your coding journey might seem confusing at first, but remember that every expert was once a beginner. Take your time, practice regularly, and most importantly, enjoy the process! 🌟 Coding is not just about the destination; it’s about the journey of learning and creating.
 
 As you dive into the world of coding, don’t hesitate to reach out for help, join online communities, and share your progress. Happy coding!
 
