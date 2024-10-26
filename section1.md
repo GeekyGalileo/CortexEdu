@@ -1,7 +1,4 @@
----
-layout: page
-title: "Basics of Coding"
----
+
 
 # Basics of Coding
 
